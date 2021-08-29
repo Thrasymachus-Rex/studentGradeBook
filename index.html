@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta property = "og:title" content="Student Management System">
+        <meta name="devloper" content="Quan Li">
+        <meta property = "og:description" 
+        content="a data management system using AJAX to 
+            read and write to a .JSON source">
+        <link ref="stylesheet" type="text/css" href="mystyle.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="index.js" defer></script>
+        <title>Student Management System</title>
+    </head>
+
+    <body onload="loctable();">
+        <div>
+            <h1>Student Management System</h1>
+        </div>
+        <div>
+            <h3>Add New Student</h3>
+            <form id="addForm">
+                <div id="name">
+                    <label for="">FIRST NAME</label><br>
+                    <input type="text" id="firstname" name="firstname" onkeyup="dltObj()"><br>
+                    <label for="">LAST NAME</label><br>
+                    <input type="text" id="lastname" name="lastname" onkeyup="dltObj()"><br>
+                </div>
+                <div id="contact">
+                    <label for="">EMAIL</label><br>
+                    <input type="text" id="email" name="email" onkeyup="dltObj()"><br>
+                    <label for="">LOCATION</label><br>
+                    <input type="text" id="location" name="location" onkeyup="dltObj()"><br>
+                    <label for="">PHONE</label><br>
+                    <input type="text" id="phone" name="phone" onkeyup="dltObj()"><br>
+                    <label for="">COMMUNICATION</label><br>
+                    <input type="text" id="communication" name="communication" onkeyup="dltObj()"><br>
+                    <label for="">PERMANENT</label><br>
+                    <input type="text" id="permanent" name="permanent" onkeyup="dltObj()"><br>
+                </div>
+                <div id="grades">
+                    <label for="">ENGLISH</label><br>
+                    <input type="text" id="english" name="english" onkeyup="dltObj()"><br>
+                    <label for="">SCIENCE </label><br>
+                    <input type="text" id="science" name="science" onkeyup="dltObj()"><br>
+                    <label for="">COMPUTER</label><br>
+                    <input type="text" id="computers" name="computer" onkeyup="dltObj()"><br>
+                    <label for="">HARDWARE</label><br>
+                    <input type="text" id="hardware" name="hardware" onkeyup="dltObj()"><br>
+                </div>
+                <button type="button" name="submit" id="inputsubmit" class="btn btn-default" onclick="register(event)">Submit</button>
+                <button type="button" name="update" id="inputupdate"  class="btn btn-default" >Update</button>
+            </form>
+        </div>
+        <div class="extratabs">
+            <strong>Rows :</strong>
+            <select id="dropdown">
+                <option value='10'>10</option>
+                <option value='20'>20</option>
+                <option value='50'>50</option>
+                <option value='100'>100</option>
+            </select>
+            <label for="search">
+            <strong>Enter keyword to search</strong>
+            </label>
+            <input type="text" id="search">
+
+            <table id="data">
+            </table>
+        </div>
+    </body>
+
+</html>

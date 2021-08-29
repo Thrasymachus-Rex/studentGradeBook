@@ -1,0 +1,2552 @@
+[
+  {
+    "firstname": "Luke0",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke1",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke2",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke3",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke4",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke5",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke6",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke7",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke8",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke9",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke10",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke11",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke12",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke13",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke14",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke15",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke16",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke17",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke18",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke19",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke20",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke21",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke22",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke23",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke24",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke25",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke26",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke27",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke28",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke29",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke30",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke31",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke32",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke33",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke34",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke35",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke36",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke37",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke38",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke39",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke40",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke41",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke42",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke43",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke44",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke45",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke46",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke47",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke48",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke49",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke50",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke51",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke52",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke53",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke54",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke55",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke56",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke57",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke58",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke59",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke60",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke61",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke62",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke63",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke64",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke65",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke66",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke67",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke68",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke69",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke70",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke71",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke72",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke73",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke74",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke75",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke76",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke77",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke78",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke79",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke80",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke81",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke82",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke83",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke84",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke85",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke86",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke87",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke88",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke89",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke90",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke91",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke92",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke93",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke94",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke95",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke96",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke97",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke98",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke99",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke100",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke101",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke102",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke103",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke104",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke105",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke106",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke107",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke108",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke109",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke110",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke111",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke112",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke113",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke114",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke115",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke116",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke117",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke118",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke119",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke120",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke121",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke122",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke123",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke124",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke125",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke126",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke127",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke128",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke129",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke130",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke131",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke132",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke133",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke134",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke135",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke136",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke137",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke138",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke139",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke140",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke141",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke142",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke143",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke144",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke145",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke146",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke147",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke148",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  },
+  {
+    "firstname": "Luke149",
+    "lastname": "Sample",
+    "email": "luke93Sample@gmail.com",
+    "location": ["Newyork", "California"],
+    "phone": "2021231234",
+    "address": {
+      "communication": "Hackensack, New Jersey",
+      "permanent": "Shanghai, China"
+    },
+    "marks": {
+      "english": "70",
+      "science": "80",
+      "computers": "90",
+      "hardware": "80"
+    }
+  }
+]
